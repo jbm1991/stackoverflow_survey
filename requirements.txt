@@ -1,6 +1,7 @@
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.3.0
+autopep8==1.5.6
 backcall==0.2.0
 bleach==3.3.0
 cffi==1.14.5
@@ -40,6 +41,7 @@ pickleshare==0.7.5
 Pillow==8.2.0
 prometheus-client==0.10.0
 prompt-toolkit==3.0.18
+pycodestyle==2.7.0
 pycparser==2.20
 Pygments==2.8.1
 pyparsing==2.4.7
@@ -57,6 +59,7 @@ Send2Trash==1.5.0
 six==1.15.0
 terminado==0.9.4
 testpath==0.4.4
+toml==0.10.2
 tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.5
