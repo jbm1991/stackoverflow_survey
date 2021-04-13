@@ -28,7 +28,7 @@ Additionally there is the `requirements.txt` file which is used to aid in instal
 
 ## Results <a name="results"></a>
 
-My findings can be found [here](https://medium.com/@jbm1991/as-a-developer-should-you-code-as-a-hobby-4e3142a048d8)
+My findings can be found [here](https://jbm1991.medium.com/as-a-developer-should-you-code-as-a-hobby-4e3142a048d8)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
